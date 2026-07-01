@@ -1,0 +1,9 @@
+flask
+flask-cors
+openai
+whisper
+edge-tts
+gunicorn
+requests
+numpy
+torch
