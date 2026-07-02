@@ -1,9 +1,8 @@
 flask
 flask-cors
 openai
-whisper
+openai-whisper
 edge-tts
 gunicorn
-requests
-numpy
 torch
+numpy
